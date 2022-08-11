@@ -1,0 +1,21 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+.site-header{
+    color: white;
+    text-align: center;
+}
+.title-sub{
+    text-align: center;
+}
+
+
+span{
+text-decoration: underline;
+text-decoration-color: yellow;
+}
+.columns{
+
+}
